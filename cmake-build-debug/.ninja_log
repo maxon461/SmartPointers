@@ -1,0 +1,10 @@
+# ninja log v5
+975	1097	1734404413957477843	SmartPointersv2	5811e7ee0d0112e1
+6	643	1734404685890733218	CMakeFiles/SmartPointersv2.dir/main.cpp.o	e4bca14b6943176d
+1	97	1734404805255063862	build.ninja	1d4beccf30e1f5f0
+4	536	1734403479508886098	CMakeFiles/SmartPointersv2.dir/CError.cpp.o	e5598cbdc6844dae
+7	974	1734404413829385961	CMakeFiles/SmartPointersv2.dir/MathTree.cpp.o	9820d35c0a2d39a6
+7	413	1734405026731555243	CMakeFiles/SmartPointersv2.dir/Node.cpp.o	22d51eda1d512f7b
+6	584	1734405026903143820	CMakeFiles/SmartPointersv2.dir/main.cpp.o	e4bca14b6943176d
+6	714	1734405027032131868	CMakeFiles/SmartPointersv2.dir/MathTree.cpp.o	9820d35c0a2d39a6
+714	821	1734405027140821360	SmartPointersv2	c3f5ace5633a1e0d
